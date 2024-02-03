@@ -1,4 +1,5 @@
 # Python libraries
+I have tested all packages myself on MacOS. 
 
 ## General
 
@@ -11,4 +12,4 @@
 
 ## ML
 
-1. [automl](https://pypi.org/project/automl/) A tool to quickly test various models on your data. A brute forse, which saves a lot of time and should be used with caution.
+1. [pycaret](https://pycaret.org/) **\*\*so impressed\*\*** An omnipotent ML tool, including data preprocess, automl part (selection of best model), great result overview and option to make ML pipeline from selected best model. Just check [this](https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) example notebook.
