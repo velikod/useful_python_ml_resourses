@@ -1,7 +1,7 @@
-This page contains mostly nice youtube channels, magazines and podcasts. A pleasure for the mind.
+This page contains mostly nice YouTube channels, magazines, and podcasts. A pleasure for the mind.
 
 1. [3blue1brown](https://www.youtube.com/@3blue1brown) The best Math Vlog for me.
-   My favourite video is [Fractals are not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4&t=2s&ab_channel=3Blue1Brown).
+   My favorite video is [Fractals are not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4&t=2s&ab_channel=3Blue1Brown).
 
 2. [The Joy of X](https://www.stevenstrogatz.com/media/podcasts/category/The+Joy+of+X) (interviews with brilliant mathematicians and STEM scientists)
    and the [Joy of Y](https://www.stevenstrogatz.com/media/podcasts/category/The+Joy+of+Why)
