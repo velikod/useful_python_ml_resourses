@@ -17,6 +17,6 @@ This page contains mostly nice YouTube channels, magazines, and podcasts. A plea
 6. Other cool videos I have enjoyed:
    - [How the tides REALLY work?](https://www.youtube.com/watch?v=bPhhYhN0FAc&list=PLc8f9So-Jq9_w7RQsdWqn67YUjo2oQ6v-&index=1&ab_channel=Waterlust) by Waterlust.
    - [The 9 Experiments That Will Change Your View of Light (And Blow Your Mind)](https://www.youtube.com/watch?v=QqY8fY0TqaQ&t=3s&ab_channel=Astrum) by Astrum.
-   - [Goethe's Purple Ray - alias Monochromatic Rays of Shadow, the Rehabilitation of Darkness](https://www.youtube.com/watch?v=vu_7uG6KlsU&t=7s&ab_channel=PehrSall) 
+   - [Goethe's Purple Ray - alias Monochromatic Rays of Shadow, the Rehabilitation of Darkness](https://www.youtube.com/watch?v=vu_7uG6KlsU&t=7s&ab_channel=PehrSall) by Pehr 
 
 7. [My favorite theorem podcast](https://podcasts.apple.com/us/podcast/my-favorite-theorem/id1262231136) The hosts invite mathematicians and let them talk about their background and explain their favorite theorem. I like the [Ep. 82 with Sarah Hart](https://podcasts.apple.com/us/podcast/episode-86-sarah-hart/id1262231136?i=1000621810472) where she talks about cycloids.
