@@ -5,7 +5,7 @@ This page contains mostly nice YouTube channels, magazines, and podcasts. A plea
 
 2. [The Joy of X](https://www.stevenstrogatz.com/media/podcasts/category/The+Joy+of+X) (interviews with brilliant mathematicians and STEM scientists)
    and the [Joy of Y](https://www.stevenstrogatz.com/media/podcasts/category/The+Joy+of+Why)
-   (a more philosophical version) podcasts by [Steven Strogatz](https://www.stevenstrogatz.com/). Check out the ["What is a good math?"](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/) episode with Terence Tao himself!
+   (a more philosophical version) podcasts by [Steven Strogatz](https://www.stevenstrogatz.com/). Check out the ["What is a good math?"](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/) the episode with Terence Tao himself!
 
 3. [Quanta magazine](https://www.quantamagazine.org/) (geeky math & science news) and Quanta magazine [youtube channel](https://www.youtube.com/@QuantaScienceChannel).
    Check out the ["2023's Biggest Breakthroughs in Math"](https://www.youtube.com/watch?v=4HHUGnHcDQw&t=1036s&ab_channel=QuantaMagazine) video.
