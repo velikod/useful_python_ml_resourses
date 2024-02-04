@@ -14,5 +14,6 @@ This page contains mostly nice YouTube channels, magazines, and podcasts. A plea
 
 5. [Brief history of mathematics podcast by BBC](https://www.bbc.co.uk/programmes/b00srz5b/episodes/downloads). I am sad it was so short!!
    
-6. Other cool videos I enjoyed:
+6. Other cool videos I have enjoyed:
    - [How the tides REALLY work?](https://www.youtube.com/watch?v=bPhhYhN0FAc&list=PLc8f9So-Jq9_w7RQsdWqn67YUjo2oQ6v-&index=1&ab_channel=Waterlust)
+   - [The 9 Experiments That Will Change Your View of Light (And Blow Your Mind)](https://www.youtube.com/watch?v=QqY8fY0TqaQ&t=3s&ab_channel=Astrum) by Astrum.
