@@ -12,3 +12,5 @@ I have tested all packages myself on MacOS.
 ### ML
 
 1. [pycaret](https://pycaret.org/) **\*\*so impressed\*\*** An omnipotent ML tool, including data preprocess, automl part (selection of best model), great result overview and option to make ML pipeline from selected best model. Just check [this](https://nbviewer.org/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Binary%20Classification.ipynb) example notebook.
+
+2. [shap](https://shap.readthedocs.io/en/latest/) Package to compute explainability [Shapley values](https://en.wikipedia.org/wiki/Shapley_value). You can read this [paper in Nature](https://github.com/velikod/useful_python_ml_resourses/blob/main/ML%20and%20Data%20Science%20papers%20and%20resources.md) on how to go deeper into the case of Tree models. 
